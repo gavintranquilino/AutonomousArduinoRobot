@@ -1,0 +1,6 @@
+{
+    "board": "arduino:avr:uno",
+    "port": "COM14",
+    "output": "../build",
+    "sketch": "testLed\\testLed.ino"
+}
